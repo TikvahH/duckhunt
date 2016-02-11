@@ -1,4 +1,6 @@
-# duckhunt
-## a simple arcade game
+# Duck Hunt - arcade game
 
-Link: http://dh.bitballoon.com/
+Preview: http://dh.bitballoon.com/
+
+![My image](http://i.imgur.com/kQSTbLS.png)
+
